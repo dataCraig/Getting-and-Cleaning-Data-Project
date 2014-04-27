@@ -38,6 +38,8 @@ The only features presented are features of that displayed a mean or standard de
 
 The data is presented in a file summary_by_activity_and_subject.txt
 
+The file is a comma separated list with column headings in the first row.
+
 ## Feature names
 
 The random variables aggregated are:
