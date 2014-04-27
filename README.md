@@ -3,16 +3,16 @@ Getting-and-Cleaning-Data-Project
 
 # Files
 The project users the following files:
-1. run_analysis.R
-2. features.txt
-3. activity_labels.txt
-4. subject_test.txt
-5. X_test.txt
-6. y_test.txt
-7. subject_train.txt
-8. X_train.txt
-9. y_train.txt
-10. summary_by_activity_and_subject.txt
+* run_analysis.R
+* features.txt
+* activity_labels.txt
+* subject_test.txt
+* X_test.txt
+* y_test.txt
+* subject_train.txt
+* X_train.txt
+* y_train.txt
+* summary_by_activity_and_subject.txt
 
 It also uses the stringr and reshape2 libraries
 
