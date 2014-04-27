@@ -14,6 +14,10 @@ The project users the following files:
 * y_train.txt
 * summary_by_activity_and_subject.txt
 
+All processing is performed in run_analysis.R which assumes the additional files are in the working directory under the same file structure where test text files are in a test subfolder and train text files are in a test subfolder.
+
+The summary_by_activity_and_subject.txt file is created as an output.
+
 It also uses the stringr and reshape2 libraries
 
 # Importing Data
